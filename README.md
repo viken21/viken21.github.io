@@ -1,4 +1,4 @@
 viken.github.io
 ===============
 
-Website Designer &amp; Front End Developer
+Passionate about Web Design, SEO and complete Digital Marketing. Currently working as Head of Marketing at eZee Technosys.
