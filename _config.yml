@@ -1,0 +1,8 @@
+title: Viken Patel
+description: Website Designer & Front End Developer
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
